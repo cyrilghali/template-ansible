@@ -44,4 +44,4 @@ Somes rules to keep it mind:
 1. Keep it simple
 2. Name your tasks.
 3. Use version control
-4. Delete whitespace and use comments with '#'
+4. Use whitespace and comments with '#'
