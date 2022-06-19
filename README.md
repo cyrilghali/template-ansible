@@ -11,6 +11,9 @@ inventories/
       group_vars/
          group1.yml       # here we assign variables to particular groups
          group2.yml
+         group3/
+            vars
+            vault
       host_vars/
          hostname1.yml    # here we assign variables to particular systems
          hostname2.yml
